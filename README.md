@@ -1,6 +1,6 @@
 # RIYA
 <h1 align="center">Hi 👋, I'm Riya Sharma</h1>
-<img src="https://cdn.dribbble.com/users/4412543/screenshots/11086928/media/c23debeaf4452826b6883c90b771e5a8.gif" , height="500px" width="500px">
+<img src="https://tenor.com/bt7EG.gif" , height="500px" width="500px">
 <h3 align="center">A passionate Frontend Developer and a JAVA enthusiast from India.</h3>
 
 - 🌱 I’m currently learning **JS and Tailwind**
