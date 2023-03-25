@@ -1,6 +1,7 @@
 # RIYA
 <h1 align="center">Hi 👋, I'm Riya Sharma</h1>
-<img src="https://tenor.com/bt7EG.gif" , height="500px" width="500px">
+<img src="https://tenor.com/bt7EG.gif" , height="500px" width="500px"/>
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 ![riya hu](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 <h3 align="center">A passionate Frontend Developer and a JAVA enthusiast from India.</h3>
 
